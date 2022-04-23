@@ -541,8 +541,8 @@ ul {
   display: inline-block;
   padding: 17px 50px;
   border-radius: 5px;
-  background-color: #B08EAD;
-  border: 2px solid #B08EAD;
+  background-color: #A91B60;
+  border: 2px solid #A91B60;
   font-size: 15px;
   font-weight: 500;
   -webkit-transition: 0.5s;
@@ -2497,7 +2497,7 @@ ul {
   content: "";
   left: 0;
   bottom: 0;
-  background-color: #B08EAD;
+  background-color: #A91B60;
   width: 196px;
   height: 618px;
 }
@@ -3128,7 +3128,7 @@ input:focus {
 .client_review {
   padding: 100px 0;
   text-align: center;
-  background-color: #B08EAD;
+  background-color: #EC9EC0;
   position: relative;
 }
 
@@ -3309,7 +3309,7 @@ input:focus {
 
 /* line 1, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_subscribe_part.scss */
 .subscribe_part {
-  background-color: #4B3049;
+  background-color: #FF0080;
 }
 
 /* line 3, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_subscribe_part.scss */
@@ -8510,7 +8510,7 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #B08EAD;
+  background-color: #A91B60;
 }
 
 /* line 8, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_breadcrumb.scss */
